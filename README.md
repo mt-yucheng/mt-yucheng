@@ -19,3 +19,5 @@ ZGtLZ7l/jzg4Vho2wUmue4qwnoXAqCvEHhqkhMIwfQ/52dkUwXNb5w0=
 =lcQU
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+This GitHub account has been abandoned. For future contact, please find `ducksteven at gmail dot com`.
