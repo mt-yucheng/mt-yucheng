@@ -1,4 +1,6 @@
-00C58A9A Revocation certificate
+This GitHub account has been abandoned. For future contact, please find `ducksteven at gmail dot com`.
+
+## 00C58A9A Revocation certificate
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -20,4 +22,3 @@ ZGtLZ7l/jzg4Vho2wUmue4qwnoXAqCvEHhqkhMIwfQ/52dkUwXNb5w0=
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-This GitHub account has been abandoned. For future contact, please find `ducksteven at gmail dot com`.
